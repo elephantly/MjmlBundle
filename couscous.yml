@@ -1,0 +1,19 @@
+template:
+    url: https://github.com/elephantly/ElephantlyCouscous
+
+# Base URL of the published website
+baseUrl: https://elephantly.github.io/MjmlBundle/
+
+# Used to link to the GitHub project
+github:
+    user: elephantly
+    repo: MjmlBundle
+
+title: Mjml Bundle
+subTitle: A Mjml integraiton for Symfony
+
+menu:
+    items:
+        home:
+            text: Getting Started
+            relativeUrl:

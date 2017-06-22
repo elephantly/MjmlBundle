@@ -1,5 +1,3 @@
-https://techpunch.co.uk/development/render-string-twig-template-symfony2
-
 How to work with MjmlBundle
 
 First install the bundle
@@ -19,3 +17,8 @@ Render will allow you to render your mjml view in a response
 RenderView will return a string to use however you want
 
 Enjoy :)
+
+
+Helping links:
+
+https://techpunch.co.uk/development/render-string-twig-template-symfony2
