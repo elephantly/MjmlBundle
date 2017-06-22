@@ -1,3 +1,0 @@
-# elephantly_mjml_homepage:
-#     path:     /
-#     defaults: { _controller: ElephantlyMjmlBundle:Default:index }
